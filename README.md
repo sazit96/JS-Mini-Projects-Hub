@@ -1,2 +1,7 @@
 # JS-Mini-Projects-Hub
- 30+ mini web projects using HTML, CSS, Tailwind & JS
+
+30+ mini web projects using HTML, CSS, Tailwind & JS
+
+|  #  | Project                                                                                    | Live Demo                                                                  |
+| :-: | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------- |
+| 01  | [Guess My Number](https://github.com/sazit96/JS-Mini-Projects-Hub/tree/main/GuessMyNumber) | [Live Demo](https://sazit96.github.io/JS-Mini-Projects-Hub/GuessMyNumber/) |
