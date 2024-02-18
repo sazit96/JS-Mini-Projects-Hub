@@ -5,3 +5,4 @@
 |  #  | Project                                                                                    | Live Demo                                                                  |
 | :-: | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------- |
 | 01  | [Guess My Number](https://github.com/sazit96/JS-Mini-Projects-Hub/tree/main/GuessMyNumber) | [Live Demo](https://sazit96.github.io/JS-Mini-Projects-Hub/GuessMyNumber/) |
+| 02  | [Expanding Card](https://github.com/sazit96/JS-Mini-Projects-Hub/tree/main/ExpandingCard)  | [Live Demo](https://sazit96.github.io/JS-Mini-Projects-Hub/ExpandingCard/) |
