@@ -11,3 +11,4 @@
 | 05  | [Blurry Loading](https://github.com/sazit96/JS-Mini-Projects-Hub/tree/main/BlurryLoading)                          | [Live Demo](https://sazit96.github.io/JS-Mini-Projects-Hub/BlurryLoading/)               |
 | 06  | [Split Landing Page ](https://github.com/sazit96/JS-Mini-Projects-Hub/tree/main/SplitLandingPage)                  | [Live Demo](https://sazit96.github.io/JS-Mini-Projects-Hub/SplitLandingPage/)            |
 | 07  | [Drum Kit ](https://github.com/sazit96/JS-Mini-Projects-Hub/tree/main/DrumKit)                                     | [Live Demo](https://sazit96.github.io/JS-Mini-Projects-Hub/DrumKit/)                     |
+| 08  | [Clock ](https://github.com/sazit96/JS-Mini-Projects-Hub/tree/main/CSSJSClock)                                     | [Live Demo](https://sazit96.github.io/JS-Mini-Projects-Hub/CSSJSClock/)                  |
