@@ -13,6 +13,10 @@ colorEl.value = 'black';
 let color = colorEl.value;
 let x, y;
 
+canvas.addEventListener('touchstart', startDrawing);
+canvas.addEventListener('touchend', stopDrawing);
+canvas.addEventListener('touchmove', draw);
+
 canvas.addEventListener('mousedown', (e) => {
   isPressed = true;
   x = e.offsetX;
@@ -37,6 +41,27 @@ canvas.addEventListener('mousemove', (e) => {
   }
 });
 
+function startDrawing(e) {
+  isPressed = true;
+  [x, y] = getPosition(e);
+}
+
+function stopDrawing() {
+  isPressed = false;
+  x = undefined;
+  y = undefined;
+}
+
+function draw(e) {
+  if (isPressed) {
+    const [newX, newY] = getPosition(e);
+    drawCircle(newX, newY);
+    drawLine(x, y, newX, newY);
+    x = newX;
+    y = newY;
+  }
+}
+
 function drawCircle(x, y) {
   ctx.beginPath();
   ctx.arc(x, y, size, 0, Math.PI * 2);
@@ -51,6 +76,15 @@ function drawLine(x1, y1, x2, y2) {
   ctx.lineWidth = size * 2;
   ctx.strokeStyle = color;
   ctx.stroke();
+}
+
+function getPosition(e) {
+  if (e.touches) {
+    const rect = canvas.getBoundingClientRect();
+    return [e.touches[0].clientX - rect.left, e.touches[0].clientY - rect.top];
+  } else {
+    return [e.offsetX, e.offsetY];
+  }
 }
 
 function updateSizeOnScreen() {
