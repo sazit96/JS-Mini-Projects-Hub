@@ -14,4 +14,4 @@
 | 08  | [Clock ](https://github.com/sazit96/JS-Mini-Projects-Hub/tree/main/CSSJSClock)                                     | [Live Demo](https://sazit96.github.io/JS-Mini-Projects-Hub/CSSJSClock/)                  |
 | 09  | [Login Page ](https://github.com/sazit96/JS-Mini-Projects-Hub/tree/main/LoginPage)                                 | [Live Demo](https://sazit96.github.io/JS-Mini-Projects-Hub/LoginPage/)                   |
 | 10  | [Animated Navigation ](https://github.com/sazit96/JS-Mini-Projects-Hub/tree/main/AnimatedNavigation)               | [Live Demo](https://sazit96.github.io/JS-Mini-Projects-Hub/AnimatedNavigation/)          |
-| 11  | [Drawing App ](https://github.com/sazit96/JS-Mini-Projects-Hub/tree/main/DrawingApp)                               | [Live Demo](https://sazit96.github.io/JS-Mini-Projects-Hub/DrawingApp/)                  |
+| 11  | [Auto Text Effect ](https://github.com/sazit96/JS-Mini-Projects-Hub/tree/main/AutoTextEffect)                      | [Live Demo](https://sazit96.github.io/JS-Mini-Projects-Hub/AutoTextEffect/)              |
