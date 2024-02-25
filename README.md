@@ -16,3 +16,4 @@
 | 10  | [Animated Navigation ](https://github.com/sazit96/JS-Mini-Projects-Hub/tree/main/AnimatedNavigation)               | [Live Demo](https://sazit96.github.io/JS-Mini-Projects-Hub/AnimatedNavigation/)          |
 | 11  | [Drawing App ](https://github.com/sazit96/JS-Mini-Projects-Hub/tree/main/DrawingApp)                               | [Live Demo](https://sazit96.github.io/JS-Mini-Projects-Hub/DrawingApp/)                  |
 | 12  | [Auto Text Effect ](https://github.com/sazit96/JS-Mini-Projects-Hub/tree/main/AutoTextEffect)                      | [Live Demo](https://sazit96.github.io/JS-Mini-Projects-Hub/AutoTextEffect/)              |
+| 13  | [Github Profile Search ](https://github.com/sazit96/JS-Mini-Projects-Hub/tree/main/GithubProfilesSearch)           | [Live Demo](https://sazit96.github.io/JS-Mini-Projects-Hub/GithubProfilesSearch/)        |
