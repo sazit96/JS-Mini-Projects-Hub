@@ -18,3 +18,4 @@
 | 12  | [Auto Text Effect ](https://github.com/sazit96/JS-Mini-Projects-Hub/tree/main/AutoTextEffect)                      | [Live Demo](https://sazit96.github.io/JS-Mini-Projects-Hub/AutoTextEffect/)              |
 | 13  | [Github Profile Search ](https://github.com/sazit96/JS-Mini-Projects-Hub/tree/main/GithubProfilesSearch)           | [Live Demo](https://sazit96.github.io/JS-Mini-Projects-Hub/GithubProfilesSearch/)        |
 | 14  | [Password Generator ](https://github.com/sazit96/JS-Mini-Projects-Hub/tree/main/PasswordGenerator)                 | [Live Demo](https://sazit96.github.io/JS-Mini-Projects-Hub/PasswordGenerator/)           |
+| 15  | [Pomodoro Timer ](https://github.com/sazit96/JS-Mini-Projects-Hub/tree/main/PomodoroTimer)                         | [Live Demo](https://sazit96.github.io/JS-Mini-Projects-Hub/PomodoroTimer/)               |
