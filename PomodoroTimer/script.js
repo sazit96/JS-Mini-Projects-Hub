@@ -42,6 +42,6 @@ function start() {
       seconds = 59;
     }
   };
-
+  /**/
   setInterval(timerFuction, 1000);
 }
